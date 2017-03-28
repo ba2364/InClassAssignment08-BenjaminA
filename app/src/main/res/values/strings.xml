@@ -1,0 +1,9 @@
+<resources> 
+    <string name="app_name">City Maker 2.0</string> 
+    <string name="city">City Name</string> 
+    <string name="state">State</string> 
+    <string name="population">Population</string> 
+    <string name="big">Is It A Big City?</string> 
+    <string name="addNewCity">Add a New City</string> 
+    <string name="addToFirebase">Add to Firebase</string> 
+</resources>
